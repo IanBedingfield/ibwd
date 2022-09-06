@@ -27,6 +27,9 @@ export default defineConfig({
       borderRadius: {
         'card': '30px',
       },
+      animation: {
+        'fast-pulse': 'pulse 1s linear infinite',
+      },
     },
   },
   shortcuts: {
